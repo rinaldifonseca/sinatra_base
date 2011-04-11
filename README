@@ -1,0 +1,11 @@
+Base Sinatra Application
+
+git clone git@github.com:rinaldifonseca/sinatra_base.git
+cd sinatra_base
+bundle install
+ruby application.rb
+
+visit: http://localhost:4567/
+
+
+
