@@ -1,7 +1,6 @@
 source :rubygems
 
 gem "sinatra"
-gem "mongoid"
 
 group :test do
   gem "rspec"
