@@ -9,7 +9,7 @@ describe 'visiting my application' do
 
   it 'should render index view' do
     get '/'
-    last_response.body.should include "index"
+    last_response.body.should include "Hello Sinatra"
   end
 
 end
